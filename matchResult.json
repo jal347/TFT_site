@@ -1,0 +1,1353 @@
+{
+    "metadata": {
+        "data_version": "5",
+        "match_id": "NA1_4041816133",
+        "participants": [
+            "uqmVL5pAQ16Cs6biyQhIemOprZOV2NCKBIsledBrKeB1S2WgA_tT5WoUOKsBfc4624KHTV0c2-pM9Q",
+            "Y6ZTHQWc-Bk0gd9CzviV1uX1j0b4EqGEzHcWpNvr5gbWhdAEXAiCrbpJgDCceww-sxiuCUOwgGS5aA",
+            "7tFtYCxPbKB4Ms0AIMJI83mnZh6reCSjmFbeyMLFspAM9Ah5T_PniDrpHAT-sv6p0ahSw1GJdnuzfA",
+            "Ejn5xgTeTpInBzpVrl2qslgfjOROC3ePqp-w7qz-N886cT0RcVJAH8ZAM7pfhtZfVd3G862ldvYZ-g",
+            "Bv7BD50nr8GcEkMge1KOI3kQeWURgm3dNSGOrS5WR-KhLwcoHQjSsP-WIQ0P0k7nYGq4kuc2_-Ym4w",
+            "PD8UZ31o7s4jhELJBB73bguk-n8Zx1jufSILzmRsH-vXCZt5ACxfJ88KmtRRig9qwB7eF2LLFCSMmQ",
+            "Uk3G9RmGsr7_0baDEdIamzVgJld_a90Fdv5NxgDcyPjwhS8imuv0JmW5BvMP7lgn7NW7iSaT6fXr1Q",
+            "4PmcVutAbc1B_P9_8zPgDPwHQbro-MUayxCj8-ps6OlArFN7PTyarrk2L1NwQR_a-jsKo9uXLl12FA"
+        ]
+    },
+    "info": {
+        "game_datetime": 1631594918318,
+        "game_length": 2041.4681396484375,
+        "game_version": "Version 11.18.395.7538 (Sep 02 2021/16:24:52) [PUBLIC] <Releases/11.18>",
+        "participants": [
+            {
+                "companion": {
+                    "content_ID": "ac8c17c8-28fa-4025-bf7a-5447852c4edb",
+                    "skin_ID": 22,
+                    "species": "PetUmbra"
+                },
+                "gold_left": 2,
+                "last_round": 28,
+                "level": 8,
+                "placement": 7,
+                "players_eliminated": 0,
+                "puuid": "uqmVL5pAQ16Cs6biyQhIemOprZOV2NCKBIsledBrKeB1S2WgA_tT5WoUOKsBfc4624KHTV0c2-pM9Q",
+                "time_eliminated": 1583.2891845703125,
+                "total_damage_to_players": 29,
+                "traits": [
+                    {
+                        "name": "Set5_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Caretaker",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set5_Cavalier",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Dawnbringer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Draconic",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Invoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Ironclad",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Knight",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Redeemed",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Renewer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Revenant",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Sentinel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Victorious",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Jax",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Karma",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [
+                            99,
+                            9,
+                            69
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            99,
+                            5,
+                            36
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            99,
+                            2,
+                            11
+                        ],
+                        "name": "Ivern",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            49,
+                            23,
+                            34
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Garen",
+                        "items": [
+                            56,
+                            57,
+                            2055
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "bc332fba-06b5-42ed-9e1a-289070e486b2",
+                    "skin_ID": 16,
+                    "species": "PetHextechBirb"
+                },
+                "gold_left": 3,
+                "last_round": 37,
+                "level": 8,
+                "placement": 2,
+                "players_eliminated": 2,
+                "puuid": "Y6ZTHQWc-Bk0gd9CzviV1uX1j0b4EqGEzHcWpNvr5gbWhdAEXAiCrbpJgDCceww-sxiuCUOwgGS5aA",
+                "time_eliminated": 2025.2310791015625,
+                "total_damage_to_players": 113,
+                "traits": [
+                    {
+                        "name": "Set5_Assassin",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Cavalier",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Draconic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Forgotten",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Ironclad",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Nightbringer",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Ranger",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Redeemed",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Sejuani",
+                        "items": [
+                            47,
+                            66,
+                            77
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_LeeSin",
+                        "items": [],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Ashe",
+                        "items": [
+                            99,
+                            23,
+                            69
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Jax",
+                        "items": [
+                            2049,
+                            23,
+                            19
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [
+                            99,
+                            77,
+                            56
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Diana",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Aphelios",
+                        "items": [
+                            16,
+                            26,
+                            29
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Viego",
+                        "items": [
+                            79,
+                            24,
+                            14
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "b8d85a23-1946-4e31-acd5-97d7beab908e",
+                    "skin_ID": 18,
+                    "species": "PetSennaBunny"
+                },
+                "gold_left": 1,
+                "last_round": 37,
+                "level": 9,
+                "placement": 1,
+                "players_eliminated": 2,
+                "puuid": "7tFtYCxPbKB4Ms0AIMJI83mnZh6reCSjmFbeyMLFspAM9Ah5T_PniDrpHAT-sv6p0ahSw1GJdnuzfA",
+                "time_eliminated": 2025.2310791015625,
+                "total_damage_to_players": 208,
+                "traits": [
+                    {
+                        "name": "Set5_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Cannoneer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Cavalier",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Draconic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Ironclad",
+                        "num_units": 3,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Knight",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Redeemed",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Renewer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Sentinel",
+                        "num_units": 6,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Senna",
+                        "items": [
+                            99,
+                            47,
+                            55
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Olaf",
+                        "items": [
+                            11,
+                            12,
+                            69
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            59
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Rakan",
+                        "items": [
+                            17,
+                            17
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Jax",
+                        "items": [
+                            99,
+                            15,
+                            47
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Lucian",
+                        "items": [
+                            49,
+                            29,
+                            2012
+                        ],
+                        "name": "Lucian",
+                        "rarity": 3,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Rell",
+                        "items": [],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Galio",
+                        "items": [
+                            56,
+                            77,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "6d88e0ca-1b9d-4e2c-bd71-46988f601c65",
+                    "skin_ID": 20,
+                    "species": "PetGemTiger"
+                },
+                "gold_left": 0,
+                "last_round": 35,
+                "level": 8,
+                "placement": 3,
+                "players_eliminated": 0,
+                "puuid": "Ejn5xgTeTpInBzpVrl2qslgfjOROC3ePqp-w7qz-N886cT0RcVJAH8ZAM7pfhtZfVd3G862ldvYZ-g",
+                "time_eliminated": 1958.1181640625,
+                "total_damage_to_players": 93,
+                "traits": [
+                    {
+                        "name": "Set5_Abomination",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Assassin",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Forgotten",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Invoker",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Knight",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Legionnaire",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Nightbringer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Renewer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Revenant",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Sentinel",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Pyke",
+                        "items": [
+                            4
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Thresh",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Nocturne",
+                        "items": [
+                            26,
+                            19,
+                            2022
+                        ],
+                        "name": "Nocturne",
+                        "rarity": 2,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Diana",
+                        "items": [
+                            35,
+                            25
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Diana",
+                        "items": [
+                            17,
+                            34,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            99,
+                            47,
+                            29
+                        ],
+                        "name": "Ivern",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            99,
+                            55,
+                            25
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Viego",
+                        "items": [
+                            28,
+                            79,
+                            15
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "2e24117d-eb2f-4eb7-875b-660c7ca682a3",
+                    "skin_ID": 37,
+                    "species": "PetPenguKnight"
+                },
+                "gold_left": 7,
+                "last_round": 33,
+                "level": 9,
+                "placement": 5,
+                "players_eliminated": 0,
+                "puuid": "Bv7BD50nr8GcEkMge1KOI3kQeWURgm3dNSGOrS5WR-KhLwcoHQjSsP-WIQ0P0k7nYGq4kuc2_-Ym4w",
+                "time_eliminated": 1839.8922119140625,
+                "total_damage_to_players": 112,
+                "traits": [
+                    {
+                        "name": "Set5_Abomination",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Brawler",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Caretaker",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set5_Cruel",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set5_Dawnbringer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Draconic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Hellion",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Inanimate",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    },
+                    {
+                        "name": "Set5_Invoker",
+                        "num_units": 4,
+                        "style": 3,
+                        "tier_current": 2,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Mystic",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Redeemed",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Renewer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Revenant",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Syndra",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nunu",
+                        "items": [
+                            57,
+                            2077,
+                            77
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Karma",
+                        "items": [
+                            99,
+                            49,
+                            14
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            47,
+                            27,
+                            35
+                        ],
+                        "name": "Ivern",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            36
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Teemo",
+                        "items": [
+                            33,
+                            24
+                        ],
+                        "name": "",
+                        "rarity": 5,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Heimerdinger",
+                        "items": [
+                            99,
+                            46,
+                            33
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Gwen",
+                        "items": [
+                            23
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            99,
+                            44,
+                            34
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "f0b5e90c-7512-4b0d-8fca-d08896607149",
+                    "skin_ID": 3,
+                    "species": "PetSennaBunny"
+                },
+                "gold_left": 1,
+                "last_round": 33,
+                "level": 6,
+                "placement": 6,
+                "players_eliminated": 1,
+                "puuid": "PD8UZ31o7s4jhELJBB73bguk-n8Zx1jufSILzmRsH-vXCZt5ACxfJ88KmtRRig9qwB7eF2LLFCSMmQ",
+                "time_eliminated": 1833.4183349609375,
+                "total_damage_to_players": 71,
+                "traits": [
+                    {
+                        "name": "Set5_Cannoneer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Cavalier",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Forgotten",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Ironclad",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Knight",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Ranger",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Redeemed",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Vayne",
+                        "items": [
+                            26,
+                            49,
+                            23
+                        ],
+                        "name": "",
+                        "rarity": 0,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Varus",
+                        "items": [
+                            17,
+                            24,
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Hecarim",
+                        "items": [
+                            99,
+                            26,
+                            44
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [
+                            35,
+                            56
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 1
+                    },
+                    {
+                        "character_id": "TFT5_Thresh",
+                        "items": [
+                            36,
+                            2067,
+                            35
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 3
+                    },
+                    {
+                        "character_id": "TFT5_MissFortune",
+                        "items": [
+                            99,
+                            1,
+                            16
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 3
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "8c27f67c-90b3-4355-9e90-6e92325c6017",
+                    "skin_ID": 16,
+                    "species": "PetSpiritFox"
+                },
+                "gold_left": 19,
+                "last_round": 26,
+                "level": 7,
+                "placement": 8,
+                "players_eliminated": 0,
+                "puuid": "Uk3G9RmGsr7_0baDEdIamzVgJld_a90Fdv5NxgDcyPjwhS8imuv0JmW5BvMP7lgn7NW7iSaT6fXr1Q",
+                "time_eliminated": 1436.1116943359375,
+                "total_damage_to_players": 27,
+                "traits": [
+                    {
+                        "name": "Set5_Abomination",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Brawler",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Dawnbringer",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Invoker",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Legionnaire",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Mystic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Renewer",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Revenant",
+                        "num_units": 3,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Soraka",
+                        "items": [],
+                        "name": "Soraka",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Riven",
+                        "items": [
+                            47,
+                            34,
+                            5
+                        ],
+                        "name": "",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nidalee",
+                        "items": [],
+                        "name": "Nidalee",
+                        "rarity": 2,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Karma",
+                        "items": [
+                            39,
+                            14,
+                            2012
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Ivern",
+                        "items": [
+                            99,
+                            9,
+                            46
+                        ],
+                        "name": "Ivern",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Fiddlesticks",
+                        "items": [
+                            99,
+                            44,
+                            34
+                        ],
+                        "name": "",
+                        "rarity": 3,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Volibear",
+                        "items": [
+                            9
+                        ],
+                        "name": "",
+                        "rarity": 4,
+                        "tier": 1
+                    }
+                ]
+            },
+            {
+                "companion": {
+                    "content_ID": "c2cd13e6-72eb-4243-b506-7c2aa60ae128",
+                    "skin_ID": 1,
+                    "species": "PetAoShin"
+                },
+                "gold_left": 0,
+                "last_round": 35,
+                "level": 9,
+                "placement": 4,
+                "players_eliminated": 2,
+                "puuid": "4PmcVutAbc1B_P9_8zPgDPwHQbro-MUayxCj8-ps6OlArFN7PTyarrk2L1NwQR_a-jsKo9uXLl12FA",
+                "time_eliminated": 1951.299072265625,
+                "total_damage_to_players": 133,
+                "traits": [
+                    {
+                        "name": "Set5_Assassin",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Cavalier",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Dawnbringer",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Draconic",
+                        "num_units": 1,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 2
+                    },
+                    {
+                        "name": "Set5_Forgotten",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Ironclad",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Knight",
+                        "num_units": 4,
+                        "style": 2,
+                        "tier_current": 2,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Legionnaire",
+                        "num_units": 2,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 4
+                    },
+                    {
+                        "name": "Set5_Sentinel",
+                        "num_units": 2,
+                        "style": 0,
+                        "tier_current": 0,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Skirmisher",
+                        "num_units": 3,
+                        "style": 1,
+                        "tier_current": 1,
+                        "tier_total": 3
+                    },
+                    {
+                        "name": "Set5_Victorious",
+                        "num_units": 1,
+                        "style": 3,
+                        "tier_current": 1,
+                        "tier_total": 1
+                    }
+                ],
+                "units": [
+                    {
+                        "character_id": "TFT5_Hecarim",
+                        "items": [
+                            66,
+                            77,
+                            56
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Nautilus",
+                        "items": [],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Thresh",
+                        "items": [
+                            59,
+                            69
+                        ],
+                        "name": "",
+                        "rarity": 1,
+                        "tier": 2
+                    },
+                    {
+                        "character_id": "TFT5_Irelia",
+                        "items": [
+                            26
+                        ],
+                        
