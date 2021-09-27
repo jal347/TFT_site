@@ -1,23 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <meta charset="UTF-8">
     <title>Form</title>
 </head>
 <body>
+    <h1>Account Form</h1>
 
-<h1>Account Form</h1>
-
-<form method="POST">
-    <label for="uname">User name:</label><br>
-    <input type="text" id="uname" name="uname" value=""><br>
-    <label for="region">Region:</label><br>
-    <input type="text" id="region" name="region" value=""><br>
-    <label for="api_key">API Key::</label><br>
-    <input type="text" id="api_key" name="api_key" value="RGAPI-5130fc1e-f703-4c79-94ac-0be3b298c993"><br><br>
-    <input type="submit" value="Submit">
-</form>
-
-
+    <form method="POST" action="/player">
+        <div class="mb-3">
+            <label for="uname" class="form-label">Username:</label>
+            <input type="text" class="form-control" id="uname" name="uname" placeholder="Input Username">
+        </div>
+        <div class="mb-3">
+            <label for="region">Region:</label><br>
+            <select class="form-select" aria-label="Default select example" id="region" name="region">
+                <option selected>Select Your Region</option>
+                <option value="na1">North America</option>
+                <option value="kr">Korea</option>
+                <option value="euw1">Europe</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="api_key" class="form-label">API Key:</label>
+            <input type="text" class="form-control" id="api_key" name="api_key" value="RGAPI-2f3b92ea-2d33-47e6-bb76-e143af41bdee
+">
+        </div>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>

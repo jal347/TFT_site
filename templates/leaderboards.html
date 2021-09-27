@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Leaderboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container p-3 my-3 bg-dark text-white">
+        <div class="row row-no-gutters">
+            <div class="col-sm-2"><h2>Rank</h2></div>
+            <div class="col-sm-4"><h2>Name</h2></div>
+            <div class="col-sm-6"><h2>LP</h2></div>
+        </div>
+    </div>
+
+    <div class="container my-3 border">
+    {% for d in docs %}
+        <div class="row row-no-gutters p-2 border-bottom">
+            {% for key, value in d.items() %}
+                {% if key == "rank" %}
+                <div class="col-sm-2">{{value}}</div>
+                {% endif %}
+                {% if key == "name" %}
+                <div class="col-sm-4">{{value}}</div>
+                {% endif %}
+                {% if key == "lp" %}
+                <div class="col-sm-6">{{value}}</div>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+    {% endfor %}
+    </div>
+
+</body>
+
+</html>

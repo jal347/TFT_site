@@ -23,7 +23,11 @@ class RankedData:
             return rank
         # checks if the list has 2 values
         elif len(file) == 1:
-            return rank
+            if file[0].get('tier') is None:
+                return rank
+            else:
+                rank = file[0].get('tier')
+                return rank
         else:
             if file[1].get('tier') is None:
                 return rank

@@ -1,42 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-<!--        <script src="script.js"></script>-->
-        <meta charset="UTF-8"/>
-        <title>INFO</title>
-    </head>
-    <style>
-        table {
-            border:1px solid black;
-            border-collapse: collapse;
-        }
-        tr {
-            border-bottom: 1pt solid black;
-        }
-    </style>
-    <body>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <meta charset="UTF-8"/>
+    <title>INFO</title>
+</head>
+<style>
+    table.center {
+        margin:auto;
+        width:80%;
+    }
 
-        <h1> {{ name }} </h1>
-        <table>
+    td.title {
+        width:auto;
+        text-align:right;
+        white-space: nowrap;
+    }
+
+    td.content {
+         width: 100%;
+    }
+
+    h1 {
+        text-align: center;
+    }
+</style>
+
+<body>
+    <h1> {{ name }} </h1>
+
+        <table class="table table-striped table-bordered center" >
             <tr>
-                <td>Name:</td>
-                <td>{{name}}</td>
+                <td class="title">Name:</td>
+                <td class="content">{{name}}</td>
             </tr>
             <tr>
-                <td>Region:</td>
-                <td>{{region}}</td>
+                <td class="title">Region:</td>
+                <td class="content">{{region}}</td>
             </tr>
             <tr>
-                <td>Level:</td>
-                <td>{{level}}</td>
+                <td class="title">Level:</td>
+                <td class="content">{{level}}</td>
             </tr>
             <tr>
-                <td>Rank:</td>
-                <td>{{rank}}</td>
+                <td class="title">Rank:</td>
+                <td class="content">{{rank}}</td>
             </tr>
         </table>
 
-
-    </body>
-    </html>
+</body>
+</html>
