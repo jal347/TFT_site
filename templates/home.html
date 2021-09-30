@@ -7,28 +7,54 @@
     <title>Form</title>
 </head>
 <body>
-    <h1>Account Form</h1>
 
-    <form method="POST" action="/player">
-        <div class="mb-3">
-            <label for="uname" class="form-label">Username:</label>
-            <input type="text" class="form-control" id="uname" name="uname" placeholder="Input Username">
+    <div class="container">
+        <div style="margin-top:50px;" class=" col-md-6 offset-md-3 col-sm-8 offset-sm-2">
+            <div class="card">
+                <div class="card-header text-white text-center bg-primary">
+                    <div class="card-title"><h1>Find Your TFT Account</h1></div>
+                </div>
+                <div style="padding-top:30px" class="card-body" >
+                    <form method="POST" action="/player">
+                        <div style="margin-bottom: 25px" class="row">
+                            <label for="uname" class="col-sm-2 col-form-label">Username:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="uname" name="uname" placeholder="Input Username">
+                            </div>
+                        </div>
+
+                        <div style="margin-bottom: 25px", class="row">
+                            <label for="region" class="col-sm-2 col-form-label">Region:</label><br>
+                            <div class="col-sm-10">
+                                <select class="form-select" aria-label="Default select example" id="region" name="region">
+                                    <option selected>Select Your Region</option>
+                                    <option value="na1">North America</option>
+                                    <option value="kr">Korea</option>
+                                    <option value="euw1">Europe</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div style="margin-bottom: 25px" class="row">
+                            <label for="api_key" class="col-sm-2 col-form-label">API Key:</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="api_key"
+                                name="api_key" value="RGAPI-78881c94-d15c-4b00-8259-108567c716c7">
+                            </div>
+                        </div>
+
+                        <div style="margin-top:10px" class="form-group">
+                            <div class="col-sm-12">
+                                <button type="submit" class="btn btn-primary">Check Stats</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
-        <div class="mb-3">
-            <label for="region">Region:</label><br>
-            <select class="form-select" aria-label="Default select example" id="region" name="region">
-                <option selected>Select Your Region</option>
-                <option value="na1">North America</option>
-                <option value="kr">Korea</option>
-                <option value="euw1">Europe</option>
-            </select>
-        </div>
-        <div class="mb-3">
-            <label for="api_key" class="form-label">API Key:</label>
-            <input type="text" class="form-control" id="api_key" name="api_key" value="RGAPI-2f3b92ea-2d33-47e6-bb76-e143af41bdee
-">
-        </div>
-        <input type="submit" value="Submit">
-    </form>
+    </div>
+
+
+
 </body>
 </html>

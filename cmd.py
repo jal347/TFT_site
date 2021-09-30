@@ -23,6 +23,10 @@ def main():
     print("Your Level is: " + str(stats['level']))
     print("Your current Rank is: " + stats['rank'])
 
+    features.make_radiant_graph()
+
+
+
 
 """
     #new instance of SummonerData

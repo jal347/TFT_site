@@ -15,10 +15,9 @@ class RadiantGraph:
         return OffsetImage(plt.imread(path), zoom=.2)
 
     """
-    Takes a list of challenger data and takes the last 50 games they played. Then grab all the ranked games
-    from the last 50 games they played within the last month. Graph the average placement/winrate
+    Takes a list of challenger data and takes the last 2 games they platey. Graph the average placement/winrate
     challenger[id, name, lp]
-    NEED TO FIX CODE FOR LAST MONTH HAVENT MADE DATE METHOD YET
+    
     """
 
     def make_radiant_data(self, challengers, region, api_key):
@@ -82,14 +81,14 @@ class RadiantGraph:
             x.append(mean(placements))
 
             # open the items folder
-            fp = open("C:/Users/PCM2020-2/PycharmProjects/riotAPIProject/RIOT TFT/items.json", "r")
+            fp = open("C:/Users/PCM2020-2/PycharmProjects/TFT_Project/RIOT TFT/items.json", "r")
             # search radiant item used and get the name
             fp = json.load(fp)
 
             for data in fp:
                 if data['id'] == int(item):
                     itemName.append(data['name'])
-                    paths.append("./RIOT TFT/items/" + item + ".png")
+                    paths.append("C:/Users/PCM2020-2/PycharmProjects/TFT_Project/RIOT TFT/items/" + item + ".png")
 
         print(x)
         print(y)

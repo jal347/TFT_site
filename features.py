@@ -37,4 +37,9 @@ def get_player_stats(region, name, api_key):
 
     return stats
 
+def make_radiant_graph():
+        # open file
+        file = open("./RadiantData.json", "r")
+        tftGraph = RadiantGraph()
+        tftGraph.make_radiant_graph(file)
 

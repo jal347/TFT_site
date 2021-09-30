@@ -79,7 +79,7 @@ class MatchHistory:
                             radiant = item
 
         # open the items folder
-        items = open("C:/Users/PCM2020-2/PycharmProjects/riotAPIProject/RIOT TFT/items.json", "r")
+        items = open("C:/Users/PCM2020-2/PycharmProjects/TFT_Project/RIOT TFT/items.json", "r")
         # search radiant item used and get the name
         items = json.load(items)
 
